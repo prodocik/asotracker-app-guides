@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://prodocik.github.io/asotracker-app-guides/sitemap.xml
