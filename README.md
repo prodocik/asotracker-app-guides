@@ -1,3 +1,3 @@
-# asotracker app guides
+# Everyday Apps Journal
 
-Beautiful static SEO pilot generated from asotracker data.
+Static independent app rankings generated from public App Store data.
