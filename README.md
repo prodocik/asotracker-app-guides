@@ -1,3 +1,3 @@
 # asotracker app guides
 
-Static SEO pilot generated from asotracker data.
+Beautiful static SEO pilot generated from asotracker data.
